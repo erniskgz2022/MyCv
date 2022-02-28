@@ -79,8 +79,8 @@ body {
 .logo {
   position: absolute;
   z-index: 100;
-  left: 450px;
-  margin: -2px 10px;
+  left: 0;
+  margin: -2px 470px;
 }
 
 .polling_message {
